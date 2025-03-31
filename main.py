@@ -5,8 +5,6 @@ System Detekcji Anomalii w Transakcjach Bankowych
 Ten skrypt integruje podstawowe oraz zaawansowane algorytmy detekcji anomalii
 do wykrywania podejrzanych transakcji bankowych.
 
-Autor: [Twoje Imię]
-Data: [Data utworzenia]
 """
 
 import pandas as pd
