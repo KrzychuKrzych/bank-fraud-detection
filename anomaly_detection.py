@@ -1,8 +1,8 @@
 """
-# System Detekcji Anomalii w Transakcjach Bankowych
-#
-# Projekt demonstruje zastosowanie uczenia maszynowego do wykrywania podejrzanych
-# transakcji bankowych z wykorzystaniem algorytmów detekcji anomalii.
+System Detekcji Anomalii w Transakcjach Bankowych
+
+Projekt demonstruje zastosowanie uczenia maszynowego do wykrywania podejrzanych
+transakcji bankowych z wykorzystaniem algorytmów detekcji anomalii.
 """
 
 import pandas as pd
