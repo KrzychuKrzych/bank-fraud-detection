@@ -83,4 +83,4 @@ bank-fraud-detection/
 
 ## Autor
 
-Krzysztof Sikorowski - projekt portfolio z zakresu uczenia maszynowego i przetwarzania obrazów.
+Krzysztof Sikorowski - projekt portfolio z zakresu praktycznego zastosowania uczenia maszynowego w kontekście wykrywania oszustw.
