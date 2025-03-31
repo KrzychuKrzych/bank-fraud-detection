@@ -1,7 +1,4 @@
 """
-Advanced Anomaly Detection Algorithms
-====================================
-
 Ten moduł zawiera zaawansowane algorytmy detekcji anomalii, które rozszerzają podstawową
 funkcjonalność systemu detekcji fraudów w transakcjach bankowych.
 
