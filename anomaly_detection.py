@@ -1,7 +1,5 @@
 """
 # System Detekcji Anomalii w Transakcjach Bankowych
-# Autor: Krzysztof Sikorowski
-# Data: 30.03.2025
 #
 # Projekt demonstruje zastosowanie uczenia maszynowego do wykrywania podejrzanych
 # transakcji bankowych z wykorzystaniem algorytmów detekcji anomalii.
